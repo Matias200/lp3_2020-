@@ -4,13 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>${titulo }</title>
+<title></title>
 </head>
 <body>
-	<div> <jsp:include page="base/menu.jsp"></jsp:include> </div>
 	<h1>
-	INDEX
-		${contenido }
+  Bienvenido ${nombre } ${apellido }
 	</h1>
 </body>
 </html>
